@@ -1,2 +1,2 @@
 Buenos dias, este es un archivo de prueba para la tarea 2 de la Unidad 02 Trabajo Colaborativo
-que ha sido modificado desde la rama "prueba1"
+que ha sido creado desde la rama "prueba1"
